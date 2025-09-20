@@ -1,4 +1,5 @@
-# 🎵 MyMusicApp
+# 🎵 -YLFMPO--youtube-link-fetcher-and-music-player-and-organizer
+
 
 A full-stack music streaming application featuring a Flutter frontend and a FastAPI backend, with PostgreSQL and Firebase integration for scalable data storage. This project demonstrates secure authentication, dynamic music management, and modern API design.
 
